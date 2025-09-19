@@ -1,5 +1,6 @@
 // components/Modal.tsx
-import React, { ReactNode } from "react";
+import type { ReactNode } from "react";
+
 
 interface ModalProps {
   title?: string;

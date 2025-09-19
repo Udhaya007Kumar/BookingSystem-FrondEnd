@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import SlotList from "../features/slots/SlotList";
 
 const Home = () => {

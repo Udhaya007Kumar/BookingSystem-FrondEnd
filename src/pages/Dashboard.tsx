@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import SlotList from "../features/slots/SlotList";
 import BookingList from "../features/bookings/BookingList";
 
